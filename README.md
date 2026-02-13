@@ -13,6 +13,7 @@ asdads
     - "Unable to retrieve your balance. Please try again or contact support if the problem persists."
 - For movie torrents that don't come with SRTs, I can actually run them through the API to get subtitles
 - Extract audio file from movies
+- Refactor directory design to include different LLMs
 
 
 ## Learnings
