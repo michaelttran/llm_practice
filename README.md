@@ -5,7 +5,7 @@ asdads
 - python3 -m virtualenv env
 - source /env/bin/activate
 - pip3 install -r requirements.txt
-- python aapi.py
+- python3 aapi.py
 
 ## TODO
 - Maybe take what it transcribes and calculate its accuracy?
@@ -14,6 +14,8 @@ asdads
 - For movie torrents that don't come with SRTs, I can actually run them through the API to get subtitles
 - Extract audio file from movies
 - Refactor directory design to include different LLMs
+- Cleanup file pathing
+- When logging, how to save transcriptions + their data source without bloating logs -> transcription txt files as a hash
 
 
 ## Learnings
