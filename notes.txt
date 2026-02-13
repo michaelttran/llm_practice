@@ -1,0 +1,4 @@
+Resources:
+- https://mlengineering.medium.com/mastering-llm-gateway-a-developers-guide-to-ai-model-interfacing-630bdd6216cc
+- https://www.assemblyai.com/docs?utm_source=google&utm_medium=cpc&utm_campaign=Brand&utm_term=assemblyai&gad_source=1&gad_campaignid=21328166382&gbraid=0AAAAACcf4rvi0ZD-T9LwAtgLWrow6hQXQ&gclid=CjwKCAiAtLvMBhB_EiwA1u6_PmZTx2Lm4W7fSM-uBesO3rwYjIQjpVr1yk5ndsJBi0WYXCFk2AYpehoCEgkQAvD_BwE
+- https://developers.openai.com/api/docs/guides/speech-to-text
